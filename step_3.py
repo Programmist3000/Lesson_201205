@@ -8,3 +8,4 @@ show_group('28', group_28)
 
 group_38 = ['Иван', 'Ольга', 'Петр']
 show_group('38', group_38)
+
